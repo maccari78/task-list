@@ -29,6 +29,12 @@
       "text": "Ir al correo",
       "day": "Agosto 06 a las 08:00 PM",
       "reminder": true
+    },
+    {
+      "id": 6,
+      "text": "Bucear",
+      "day": "Agosto 06 a las 10:00 PM",
+      "reminder": true
     }
   ]
 }
