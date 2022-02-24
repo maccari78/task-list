@@ -22,7 +22,7 @@
       "id": 4,
       "text": "Leer mi libro favorito",
       "day": "Agosto 05 a las 21:00 PM",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": 5,
