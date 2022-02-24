@@ -16,19 +16,31 @@
       "id": 3,
       "text": "Leer mi libro favorito",
       "day": "Agosto 05 a las 21:00 PM",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": 5,
       "text": "Bucear",
       "day": "Agosto 06 a las 10:00 PM",
-      "reminder": true
+      "reminder": false
     },
     {
-      "text": "Nueva tarea",
-      "day": "Mañana",
-      "reminder": false,
+      "text": "Odontologia",
+      "day": "Febrero 25 a las 02:00 PM",
+      "reminder": true,
       "id": 6
+    },
+    {
+      "text": "Cardiologia",
+      "day": "Febrero 25 a las 08:00 AM",
+      "reminder": true,
+      "id": 7
+    },
+    {
+      "text": "Ir al baño",
+      "day": "Febrero 24 a las 08:12",
+      "reminder": true,
+      "id": 10
     }
   ]
 }
