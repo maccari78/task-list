@@ -10,19 +10,25 @@
       "id": 1,
       "text": "Hacer las compras para la cena",
       "day": "Agosto 05 a las 21:00 PM",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": 3,
       "text": "Leer mi libro favorito",
       "day": "Agosto 05 a las 21:00 PM",
-      "reminder": false
+      "reminder": true
     },
     {
       "id": 5,
       "text": "Bucear",
       "day": "Agosto 06 a las 10:00 PM",
-      "reminder": false
+      "reminder": true
+    },
+    {
+      "text": "Nueva tarea",
+      "day": "Mañana",
+      "reminder": false,
+      "id": 6
     }
   ]
 }
